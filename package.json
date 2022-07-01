@@ -1,0 +1,16 @@
+{
+  "name": "sciencenewspagecrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "jsdom": "^20.0.0",
+    "request": "^2.88.2"
+  }
+}
